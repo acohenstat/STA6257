@@ -27,6 +27,7 @@ show_sidebar: false
 |      | Th  | 03/02 | Project 3 (no meeting) | | | |
 | 9    | T   | 03/07 | Individual research (short meeting) | | | |
 |      | Th  | 03/09 | Individual research (no meeting) | | |  |
+|**Spring Break**|
 | 10   | T   | 03/21 | Individual research (short meeting) | | | |
 |      | Th  | 03/23 | Individual research (no meeting) | | |  |
 | 11   | T   | 03/28 | Team research (short meeting) | | | |
@@ -36,7 +37,7 @@ show_sidebar: false
 | 13   | T   | 04/11 | Team research (short meeting) | | | |
 |      | Th  | 04/13 | Team research (no meeting) | | |  |
 | 14   | T   | 04/18 | Team research (short meeting) | | | |
-|      | Th  | 04/20 | **Thanksgiving Holiday** | | |  |
+|      | Th  | 04/20 | Team research (no meeting) | | |  |
 | 15   | T   | 04/25 | Presentations | | | |
 |      | Th   | 04/27 | Presentations | | | |
 | 16   |   |  | Final paper due | | |  |

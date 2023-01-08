@@ -27,7 +27,7 @@ show_sidebar: false
 |      | Th  | 03/02 | Project 3 (no meeting) | | | |
 | 9    | T   | 03/07 | Individual research (short meeting) | | | |
 |      | Th  | 03/09 | Individual research (no meeting) | | |  |
-|**Spring Break**|
+|      |     | 03/13-03/18|      **Spring Break**|| |  |
 | 10   | T   | 03/21 | Individual research (short meeting) | | | |
 |      | Th  | 03/23 | Individual research (no meeting) | | |  |
 | 11   | T   | 03/28 | Team research (short meeting) | | | |

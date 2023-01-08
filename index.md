@@ -1,6 +1,5 @@
 ---
 title: STA6257 - Advanced Statistical Modeling
-subtitle: Fall 2022 
 layout: page
 #callouts: home_callouts
 show_sidebar: false

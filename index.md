@@ -9,34 +9,34 @@ show_sidebar: false
 
 | **Week** | **Day** | **Date**  | **Topic(s)** | **R Codes** | **Slides** | **Due** |
 |:-:|:-:|:---:|--------------------|:--:|:-:|:-:
-| 1    | T   | 08/23 | Data management; summarizing data; data visualization | | | |
-|      | Th  | 08/25 | Practice (no meeting) |[HERE](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/Tidyverse_R.R) | | 08/29 |
-| 2    | T   | 08/30 | Review of linear models; weighted regression | [Normal](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/NormalLinearModels.R);  [Weighted](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/WeightedMLR.R) | [1-25](http://pages.uwf.edu/acohen/teaching/slides/Slides_STA6257_Adv_Statistical_Modeling.pdf)| |
-|      | Th  | 09/01 | Introduction to Generalized linear models | |[26-47](http://pages.uwf.edu/acohen/teaching/slides/Slides_STA6257_Adv_Statistical_Modeling.pdf) | |
-| 3    | T   | 09/06 | gamma regression (**positive continuous data**) |[HERE](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/GammaLinearModels.R) |[26-47; 55](http://pages.uwf.edu/acohen/teaching/slides/Slides_STA6257_Adv_Statistical_Modeling.pdf) | |
-|      | Th  | 09/08 | Practice (no meeting) |[HERE](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/GammaLinearModels.R) | | 09/12 |
-| 4    | T   | 09/13 | Project 1 (short meeting) | | | |
-|      | Th  | 09/15 | Project 1 (no meeting) | | | 09/19 |
-| 5    | T   | 09/20 | Binomial regressions (**proportion data**) |[HERE](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/Bin_Ord_MultinomialModels.R) |[48-51](http://pages.uwf.edu/acohen/teaching/slides/Slides_STA6257_Adv_Statistical_Modeling.pdf)| |
-|      | Th  | 09/22 | Practice (no meeting) |[HERE](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/Bin_Ord_MultinomialModels.R) | | 09/26 |
-| 6    | T   | 09/27 | Project 2 (short meeting) | | | |
-|      | Th  | 09/29 | Project 2 (no meeting) | | | 10/03 |
-| 7    | T   | 10/04 | Poisson and negative binomial regressions (**counts data**) |[HERE](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/PoissonNBModels.R) |[52-54](http://pages.uwf.edu/acohen/teaching/slides/Slides_STA6257_Adv_Statistical_Modeling.pdf) | |
-|      | Th  | 10/06 | Practice (no meeting) |[HERE](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/PoissonNBModels.R) | | 10/10 |
-| 8    | T   | 10/11 | Project 3 (short meeting) | | | |
-|      | Th  | 10/13 | Project 3 (no meeting) | | | 10/17 |
-| 9    | T   | 10/18 | Individual research (short meeting) | | | |
-|      | Th  | 10/20 | Individual research (no meeting) | | | 10/21 |
-| 10   | T   | 10/25 | Individual research (short meeting) | | | |
-|      | Th  | 10/27 | Individual research (no meeting) | | | 10/28 |
-| 11   | T   | 11/01 | Team research (short meeting) | | | |
-|      | Th  | 11/03 | Team research (no meeting) | | | 11/04 |
-| 12   | T   | 11/08 | Team research (short meeting) | | | |
-|      | Th  | 11/11 | Team research (no meeting) | | | 11/10 |
-| 13   | T   | 11/15 | Team research (short meeting) | | | |
-|      | Th  | 11/17 | Team research (no meeting) | | | 11/18 |
-| 14   | T   | 11/22 | Team research (short meeting) | | | |
-|      | Th  | 11/24 | **Thanksgiving Holiday** | | | 11/25 |
-| 15   | T   | 11/29 | Presentations | | | |
-|      | Th   | 12/01 | Presentations | | | 12/02 |
-| 16   |   |  | Final paper due | | | 12/07 |
+| 1    | T   | 01/10 | Data management; summarizing data; data visualization | | | |
+|      | Th  | 01/12 | Practice (no meeting) |[HERE](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/Tidyverse_R.R) | | |
+| 2    | T   | 01/17 | Review of linear models; weighted regression | [Normal](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/NormalLinearModels.R);  [Weighted](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/WeightedMLR.R) | [1-25](http://pages.uwf.edu/acohen/teaching/slides/Slides_STA6257_Adv_Statistical_Modeling.pdf)| |
+|      | Th  | 01/19 | Introduction to Generalized linear models | |[26-47](http://pages.uwf.edu/acohen/teaching/slides/Slides_STA6257_Adv_Statistical_Modeling.pdf) | |
+| 3    | T   | 01/24 | gamma regression (**positive continuous data**) |[HERE](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/GammaLinearModels.R) |[26-47; 55](http://pages.uwf.edu/acohen/teaching/slides/Slides_STA6257_Adv_Statistical_Modeling.pdf) | |
+|      | Th  | 01/26 | Practice (no meeting) |[HERE](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/GammaLinearModels.R) | |  |
+| 4    | T   | 01/31 | Project 1 (short meeting) | | | |
+|      | Th  | 02/02 | Project 1 (no meeting) | | | |
+| 5    | T   | 02/07 | Binomial regressions (**proportion data**) |[HERE](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/Bin_Ord_MultinomialModels.R) |[48-51](http://pages.uwf.edu/acohen/teaching/slides/Slides_STA6257_Adv_Statistical_Modeling.pdf)| |
+|      | Th  | 02/09 | Practice (no meeting) |[HERE](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/Bin_Ord_MultinomialModels.R) | | |
+| 6    | T   | 02/14 | Project 2 (short meeting) | | | |
+|      | Th  | 02/16 | Project 2 (no meeting) | | | 10/03 |
+| 7    | T   | 02/21 | Poisson and negative binomial regressions (**counts data**) |[HERE](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/PoissonNBModels.R) |[52-54](http://pages.uwf.edu/acohen/teaching/slides/Slides_STA6257_Adv_Statistical_Modeling.pdf) | |
+|      | Th  | 02/23 | Practice (no meeting) |[HERE](https://github.com/UWFTeaching/AdvStatsModeling/blob/main/codes/PoissonNBModels.R) | |  |
+| 8    | T   | 02/28 | Project 3 (short meeting) | | | |
+|      | Th  | 03/02 | Project 3 (no meeting) | | | |
+| 9    | T   | 03/07 | Individual research (short meeting) | | | |
+|      | Th  | 03/09 | Individual research (no meeting) | | |  |
+| 10   | T   | 03/21 | Individual research (short meeting) | | | |
+|      | Th  | 03/23 | Individual research (no meeting) | | |  |
+| 11   | T   | 03/28 | Team research (short meeting) | | | |
+|      | Th  | 03/30 | Team research (no meeting) | | |  |
+| 12   | T   | 04/04 | Team research (short meeting) | | | |
+|      | Th  | 04/06 | Team research (no meeting) | | |  |
+| 13   | T   | 04/11 | Team research (short meeting) | | | |
+|      | Th  | 04/13 | Team research (no meeting) | | |  |
+| 14   | T   | 04/18 | Team research (short meeting) | | | |
+|      | Th  | 04/20 | **Thanksgiving Holiday** | | |  |
+| 15   | T   | 04/25 | Presentations | | | |
+|      | Th   | 04/27 | Presentations | | | |
+| 16   |   |  | Final paper due | | |  |

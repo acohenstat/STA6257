@@ -1,93 +1,75 @@
 ---
 title: 'STA6257: Advanced Statistical Modeling'
-author: "Syllabus"
+subtitle: "Syllabus"
+#author: "Syllabus"
 #date: "Last updated: `r Sys.Date()`"
-output: 
-  html_document:
+format: 
+  html:
       toc: TRUE
       toc_depth: 2
       toc_float: TRUE
-  pdf_document:
-    toc: no
-    toc_depth: 2
-always_allow_html: true
+execute: 
+  warning: false
+self-contained: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
 ```
 
+![](Math.jpg){width="50%"}
+
 ## Course Information
 
-- **Instructor**: Dr. Achraf Cohen
--	**Email**: acohen@uwf.edu
-- **Class Meetings**: TR @6:00PM to 7:15PM 
--	**Email policy**: Please put **STA6257** in the email subject
--	**Zoom Link**: [https://uwf.zoom.us/my/acohen](https://uwf.zoom.us/my/acohen){target="_blank"}
--	**Class Meetings**: Online Learning
-- **Course Materials**: [Canvas](https://uwf.instructure.com/){target="_blank"}
-- **Office Hours**: Online by appointment
-- **Course Outline** [acohenstat.github.io/STA6257/](https://acohenstat.github.io/STA6257/){target="_blank"}
+-   **Instructor**: Dr. Achraf Cohen
+-   **Email**: [acohen\@uwf.edu](mailto:acohen@uwf.edu){.email}
+-   **Class Meetings**: TR @6:00PM to 7:15PM
+-   **Email policy**: Please put **STA6257** in the email subject
+-   **Zoom Link**: [https://uwf.zoom.us/my/acohen](https://uwf.zoom.us/my/acohen){target="_blank"}
+-   **Class Meetings**: Online Learning
+-   **Course Materials**: [Canvas](https://uwf.instructure.com/){target="_blank"}
+-   **Office Hours**: Online by appointment
+-   **Course Outline** [acohenstat.github.io/STA6257/](https://acohenstat.github.io/STA6257/){target="_blank"}
 
 <!-- You may schedule an appointment for office hours through Navigate following [these instructions](https://confluence.uwf.edu/display/public/Schedule+an+Appointment+with+your+Academic+Advisor%2C+an+Academic+Support+office%2C+or+Faculty+Office+Hours): -->
 
 <!-- Choose: -->
+
 <!--   - Faculty Virtual Office Hours -->
 
 <!-- This is linked to my Google Calendar, so you will be able to make an appointment if I am not already busy. It will also consider your class schedule and not offer times that conflict with your class times. If you are unable to find a time that works with your schedule, please email me with your availability and we will find a time that works for both of us.  -->
 
 <!-- All office hours will be held in my personal [Zoom room](https://uwf.zoom.us/my/acohen).  -->
 
+## Course Description
 
-#### Textbooks (not required)
+This course will provide you with an opportunity to apply the knowledge and skills that they you have gained in the program. This final project will allow student to gain experience in data wrangling, data visualization, statistical modeling and prediction, machine learning applications, reporting and presenting the results. Upon the completion of this course, you will have a data product (paper and slides) to show to potential hiring managers; [see Tentative Schedule](https://acohenstat.github.io/STA6257/){target="_blank"}
 
-- Foundations of Linear and Generalized Linear Models, Edition (2015). Author: Alan
-Agresti; ISBN-13: 978-1118730034. [free access with UWF account](https://ebookcentral.proquest.com/lib/uwf/reader.action?docID=1895564){target="_blank"}
-
-- Generalized Linear Models With Examples in R, Edition (2015). Author: Peter K.
-Dunn and Gordon K. Smyth ; ISBN-13: 978-1441901170.
-
-- Generalized, Linear, and Mixed Models, 2nd Edition (2008). Author: Charles E.
-McCulloch, Shayle R. Searle, John M. Neuhaus; ISBN-13: 978-0-470-07371-1.
-
-- Introduction to Data Science - Data Analysis and Prediction Algorithms with R, (2020).
-Author: Rafael A. Irizarry.
-
-
-## Course Description 
-
-This course provides students with a fundamental understanding
-of linear models and generalized linear models. This course aims at introducing the theory and practice of Generalized linear models with an emphasis on modeling and applications.
-Successful completing assignments require a mix of computing (R programming) and statistics/mathematics.
-We will be using R for computer oriented analysis. Students will also work on a methodological project, [see Tentative Schedule](https://acohenstat.github.io/STA6257/){target="_blank"}
-
-
-## Topics
+```{=html}
+<!--## Topics
 
 - Data management and visualization using R
-- Linear Normal models
+- Investigative statistical modeling
 - Diagnostics of linear models
 - Generalized linear models
 - Gamma regression
 - Binomial, Ordinal, and Multinomial regressions
 - Poisson regression
-- Negative binomial regression 
-
-
+- Negative binomial regression -->
+```
 ## Student Learning Outcomes
 
 At the completion of this course, students will be able to:
 
-- Describe linear and generalized linear models
-- Apply and compare generalized linear models (gamma, binomial, Poisson, negative binomial, etc.)
-- Acquire, organize, summarize, and visualize data
-- Communicate and formulate statistical analysis to an audience 
-- Collaborate with others
-
+-   Describe a research or business problem of interest
+-   Apply and compare statistical and machine learning methods
+-   Acquire, organize, summarize, and visualize data
+-   Communicate and formulate statistical analysis to an audience
+-   Collaborate with others
 
 ## Course Materials
 
-There is no required textbooks for this course. Course Materials are posted on Canvas. Lectures will be recorded and posted on Canvas. 
+There is no required textbooks for this course. Course Materials are posted on Canvas. Lectures will be recorded and posted on Canvas.
 
 > **Course Outline**: [acohenstat.github.io/STA6257/](https://acohenstat.github.io/STA6257/){target="_blank"}
 
@@ -96,31 +78,41 @@ There is no required textbooks for this course. Course Materials are posted on C
 <!-- Each week would look something like this: -->
 
 <!-- ```{r, echo=FALSE, eval=TRUE, message=FALSE, warning=FALSE, fig.height=2} -->
+
 <!-- library(DiagrammeR) -->
+
 <!-- grViz("digraph { -->
 
 <!-- graph[layout = dot, rankdir = LR] -->
-<!-- node [shape = rectangle, style = filled, fillcolor = LightBlue] -->
-<!-- node[fontname = 'helvetica', width = 1.5, height = 0.5] -->
-<!-- tues [label = 'Watch Recordings', fillcolor = '#B3CDE3'] -->
-<!-- thurs [label ='Practice and Discuss \n Group work', fillcolor = '#CCEBC5'] -->
-<!-- quiz [label = 'Individual Project \n Due Sunday \n  11:59 pm CST', fillcolor = '#ff3b30'] -->
-<!-- tues -> thurs -> quiz -->
-<!-- }") -->
-<!-- ``` -->
 
+<!-- node [shape = rectangle, style = filled, fillcolor = LightBlue] -->
+
+<!-- node[fontname = 'helvetica', width = 1.5, height = 0.5] -->
+
+<!-- tues [label = 'Watch Recordings', fillcolor = '#B3CDE3'] -->
+
+<!-- thurs [label ='Practice and Discuss \n Group work', fillcolor = '#CCEBC5'] -->
+
+<!-- quiz [label = 'Individual Project \n Due Sunday \n  11:59 pm CST', fillcolor = '#ff3b30'] -->
+
+<!-- tues -> thurs -> quiz -->
+
+<!-- }") -->
+
+<!-- ``` -->
 
 ## Grading and Evaluation
 
 The course grade will be determined as follows:
 
-- Practice (#4): 20%
-- Projects (#3): 30%
-- Capstone Project (#1): 50%
-
+-   Quizzes Project Progress (#12): 60%
+-   Oral Presentation - Slides (#1): 20%
+-   Final Paper Project  (#1): 20%
 
 <!-- 1. Homework/Quizzes (40%): There will be a timed quiz taken through Canvas every weekend that is similar to the assigned homework. You must upload a readable scan -- a single PDF file -- of your written work to the appropriate dropbox on Canvas within 5 minutes of completing the quiz. To allow for flexibility with life/work scheduling, **the quizzes will open on Friday and are due on Sunday night at 11:59 pm, Central.** The two lowest quiz grades will be excluded from the quiz average. -->
+
 <!-- 2. Projects (30%): All projects will be completed using R and a report will be constructed using R Markdown. Projects will be submitted as HTML files in the appropriate dropbox on Canvas. **The due date for projects will be approximately one week after completion of the material corresponding to the project.**  -->
+
 <!-- 3. Final Exam (30%): The final exam will be divided into two parts: a take-home computation-based exam (10%) and an in-class concepts-based exam (20%). While there may be some calculations needed, you will not be processing raw data on the in-class portion of the final exam. **The in-class portion of the final exam will be on Thursday, December 9, 2021.** The date of this exam will not change, so please make arrangements to be free for an uninterrupted block of time on the specified date. -->
 
 <!-- It is expected that all work submitted is the student's own work. Evidence of academic dishonesty, including using "homework help" websites such as Chegg or CourseHero, or collaboration with other students, will be submitted to the Dean of Students. A grade of 0 will automatically be assigned for the assignment and **there will be no opportunities to change that grade.** -->
@@ -133,30 +125,37 @@ The course grade will be determined as follows:
 
 Final course grades will be determined according to the following scale.
 
-Letter Grade|Weighted Score|
-----|---|
-A   |93%--100%
-A-  |90%--92%
-B+  |87%--89%
-B   |83%--86%
-B-  |80%--82%
-C+  |77%--79%
-C   |73%--76%
-C-  |70%--72%
-D+  |67%--69%
-D   |60%--66%
-F   |< 60%
-|
+| Letter Grade | Weighted Score |
+|--------------|----------------|
+| A            | 93%--100%      |
+| A-           | 90%--92%       |
+| B+           | 87%--89%       |
+| B            | 83%--86%       |
+| B-           | 80%--82%       |
+| C+           | 77%--79%       |
+| C            | 73%--76%       |
+| C-           | 70%--72%       |
+| D+           | 67%--69%       |
+| D            | 60%--66%       |
+| F            | \< 60%         |
+|              |                |
 
 <!-- ## Important University Dates -->
 
 <!-- Date|Event -->
+
 <!-- ---|--- -->
+
 <!-- August 23 (Monday)|Fall semester begins. -->
+
 <!-- August 29 (Sunday)|Drop/Add period ends. -->
+
 <!-- November 11 (Thursday)|Veteran's Day - campus closed. -->
+
 <!-- November 15 (Monday)|Withdrawal deadline (automatic grade of "W"). -->
+
 <!-- November 25 (Thursday)|Thanksgiving holiday - campus closed. -->
+
 <!-- December 11 (Friday)|Late withdrawal deadline ("W" or "WF", see requirements below). -->
 
 ## University Statements and Policies

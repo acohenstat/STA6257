@@ -21,6 +21,8 @@ The methodologies to consider:
 - Random Forest
 - Bayesian Networks
 - Latent Class Analysis
+- Bayesian Linear Regression
+- Beta regression
 - etc.
 
 
@@ -28,5 +30,5 @@ You are free to propose a **topic** if there is something you are interested in 
 
 #### Useful links
 
-- Data Sets: https://github.com/acohenstat/datasetsLinks to an external site.
-- GitHub Page for the project: https://github.com/acohenstat/STA6257_ProjectLinks to an external site.
+- Data Sets: [https://github.com/acohenstat/datasets](https://github.com/acohenstat/datasets)
+- GitHub Page for the project: [https://github.com/acohenstat/STA6257_Project](https://github.com/acohenstat/STA6257_Project)

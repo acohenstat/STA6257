@@ -1,0 +1,49 @@
+---
+title: "Making a Quality Report"
+subtitle: "Data Science Capstone"
+author: "Dr. Cohen @UWF (draft)"
+format:
+  revealjs: 
+    theme: default
+editor: visual
+execute: 
+  warning: false
+self-contained: true
+---
+
+## Outline of the report {.smaller}
+
+-   Introduction
+    -   A section on the statement of the problem / what is the goal of the paper
+
+    -   A section on the relevance of the problem
+
+    -   Literature review / related work
+
+    -   Limitation (optional)
+-   Methods
+    -   Statistical/mathematical models
+
+    -   Assumptions
+-   Analysis and Results
+  - Data sets
+  - Descriptive / Exploratory 
+  - Modeling
+-   Conclusion
+    -   Remind the reader about the goal, the method used, and the results.
+
+    -   Further study
+
+## Introduction {.smaller}
+
+To ensure a high-quality introduction, it must meet the following criteria:
+
+-   Clear, concise, and easy to read
+-   Professional language
+-   Preview of what the reader can expect to learn from the rest of the text
+-   Relevant and tailored to the intended audience - **graduate students**
+-   **Statements** should be supported by credible and reliable resources
+-   Seek feedback from group mates
+-   Proofread and Proofread
+
+

@@ -1,5 +1,5 @@
 ---
-title: 'STA6257: Advanced Statistical Modeling'
+title: 'STA6257: Capstone Data Science'
 subtitle: "Syllabus"
 #author: "Syllabus"
 #date: "Last updated: `r Sys.Date()`"
@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
 -   **Zoom Link**: [https://uwf.zoom.us/my/acohen](https://uwf.zoom.us/my/acohen){target="_blank"}
 -   **Class Meetings**: Online Learning
 -   **Course Materials**: [Canvas](https://uwf.instructure.com/){target="_blank"}
--   **Office Hours**: Online by appointment
+-   **Office Hours**: Office or Online by appointment
 -   **Course Outline** [acohenstat.github.io/STA6257/](https://acohenstat.github.io/STA6257/){target="_blank"}
 
 <!-- You may schedule an appointment for office hours through Navigate following [these instructions](https://confluence.uwf.edu/display/public/Schedule+an+Appointment+with+your+Academic+Advisor%2C+an+Academic+Support+office%2C+or+Faculty+Office+Hours): -->
